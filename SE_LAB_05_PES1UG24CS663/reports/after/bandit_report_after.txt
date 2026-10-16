@@ -1,0 +1,25 @@
+﻿Run started:2026-10-16 07:29:02.523832+00:00
+Files in scope (1):
+	.\tax_calculator.py (score: {SEVERITY: 0, CONFIDENCE: 0})
+Files excluded (0):
+
+Test results:
+	No issues identified.
+
+Code scanned:
+	Total lines of code: 127
+	Total lines skipped (#nosec): 0
+	Total potential issues skipped due to specifically being disabled (e.g., #nosec BXXX): 0
+
+Run metrics:
+	Total issues (by severity):
+		Undefined: 0
+		Low: 0
+		Medium: 0
+		High: 0
+	Total issues (by confidence):
+		Undefined: 0
+		Low: 0
+		Medium: 0
+		High: 0
+Files skipped (0):
